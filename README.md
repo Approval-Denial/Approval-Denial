@@ -24,5 +24,6 @@
 <br/>
 <a href="https://github.com/approval-denial">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=approval-denial&theme=dark&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=approval-denial&theme=dark&layout=compact" />
 </a>
+<h2> Bot Yaptığım Sunucular </h2>
+<a href="https://discord.gg/YqTNykPM6Q"> † The Dark Claw (Özel Tasarım)</a> 11.04.2022 - Aktif
