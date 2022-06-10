@@ -26,4 +26,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=approval-denial&theme=dark&show_icons=true" />
 </a>
 <h2> Bot Yaptığım Sunucular </h2>
-<a href="https://discord.gg/YqTNykPM6Q"> † The Dark Claw (Özel Tasarım)</a> 11.04.2022 - Aktif
+<a href="https://discord.gg/YqTNykPM6Q"> Designers World</a> 01.06.22 - Aktif
