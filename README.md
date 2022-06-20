@@ -27,3 +27,4 @@
 </a>
 <h2> Bot Yaptığım Sunucular </h2>
 <a href="https://discord.gg/YqTNykPM6Q"> Designers World</a> 01.06.22 - Aktif
+<a href="https://discord.gg/RNTXGWrkcp"> Carlsberg & Bistro</a> 21.06.22 - Aktif
