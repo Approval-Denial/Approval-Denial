@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba Arkadaşlar👋</h1>
-<h2 align="center">Arkadaşımla beraber çıktığımız bu yolda güzel projelerimiz var ve sizinle paylaşmak güzel olur.</h2>
+<h2 align="center">Boş zamanlarımda kendimi geliştirmek adına yaptığım projeleri burada paylaşıcam</h2>
  <img src="https://komarev.com/ghpvc/?username=Approval-Denial&label=Ziyaretçi%20Sayısı&color=da004e" alt="Approval-Denial" />
 
 
