@@ -26,8 +26,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=approval-denial&theme=dark&show_icons=true" />
 </a>
 <h2> Bot Yaptığım Sunucular </h2>
-<a href="https://discord.gg/YqTNykPM6Q"> Designers World</a> 01.06.22 - Aktif <br/>
-<a href="https://discord.gg/zUwE8XDDpe"> Cafe & Bistro</a> 26.06.22 - Aktif <br/>
-<a href="https://discord.gg/v4qXHGW5C9"> ✦ Marianna</a> 26.06.22 - Aktif <br/>
-<a href="https://discord.gg/JPHnfuU24c9"> Lâyne Resmî (0550)</a> 28.06.22 - Aktif <br/>
-<a href="https://discord.gg/NCwEbZ2Kb7"> Karı Haremi </a> 03.07.2022 - Aktif
+<a href=""> Approval#5982 </a> 30.07.22 - Aktif <br/>
+
