@@ -26,5 +26,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=approval-denial&theme=dark&show_icons=true" />
 </a>
 <h2> Bot Yaptığım Sunucular </h2>
-<a href=""> Approval#5982 </a> 30.07.22 - Aktif <br/>
+Yok
 
