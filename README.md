@@ -2,6 +2,18 @@
 <h2 align="center">Boş zamanlarımda kendimi geliştirmek adına yaptığım projeleri burada paylaşıcam</h2>
  <img src="https://komarev.com/ghpvc/?username=Approval-Denial&label=Ziyaretçi%20Sayısı&color=da004e" alt="Approval-Denial" />
 
+```js
+class Approval {
+constructor(options) {
+this.name = "Mehmet",
+this.age = 19,
+this.insta = "approval.memo0",
+this.discord = "Approval#5982",
+this.discordId = "85280081480864814"
+  };
+}
+module.exports = Approval;
+```
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
