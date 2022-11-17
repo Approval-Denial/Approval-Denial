@@ -8,7 +8,7 @@ constructor(options) {
 this.name = "Mehmet",
 this.age = 19,
 this.insta = "approval.memo0",
-this.discord = "Approval#5982",
+this.discord = "Approval#0001",
 this.discordId = "85280081480864814"
   };
 }
@@ -37,6 +37,5 @@ module.exports = Approval;
 <a href="https://github.com/approval-denial">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=approval-denial&theme=dark&show_icons=true" />
 </a>
-<h2> Bot Yaptığım Sunucular </h2>
-Yok
+
 
