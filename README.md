@@ -38,4 +38,4 @@ module.exports = Approval;
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=approval-denial&theme=dark&show_icons=true" />
 </a>
 
-
+![Hesap](https://cdn.discordapp.com/attachments/1019931731459051663/1044240654911410246/image.png)
