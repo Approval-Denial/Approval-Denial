@@ -39,4 +39,4 @@ module.exports = Approval;
 </a>
 <h6>Bazı arkadaşlar fake hesabımı açmış tek gerçek hesabım aşağıdakidir.</h6>
 
-![Hesap](https://cdn.discordapp.com/attachments/1019931731459051663/1044240654911410246/image.png)
+![resim_2022-11-25_121638251](https://user-images.githubusercontent.com/74969246/203944582-051c4f19-c011-40fa-8e08-aee75fbcee44.png)
