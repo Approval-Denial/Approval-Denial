@@ -37,6 +37,3 @@ module.exports = Approval;
 <a href="https://github.com/approval-denial">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=approval-denial&theme=dark&show_icons=true" />
 </a>
-<h6>Bazı arkadaşlar fake hesabımı açmış tek gerçek hesabım aşağıdakidir.</h6>
-
-![resim_2022-11-25_121638251](https://user-images.githubusercontent.com/74969246/203944582-051c4f19-c011-40fa-8e08-aee75fbcee44.png)
