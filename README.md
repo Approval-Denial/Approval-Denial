@@ -8,7 +8,7 @@ constructor(options) {
 this.name = "Mehmet",
 this.age = 19,
 this.insta = "approval.memo0",
-this.discord = "Approval#0001",
+this.discord = "Approval.#0001",
 this.discordId = "85280081480864814"
   };
 }
